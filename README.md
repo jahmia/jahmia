@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello World, Akory aby 👋
 
-<!--
-**jahmia/jahmia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Hello! I'm Jahmia.</h2>
+<!-- <p align="center">
+  <a href="https://blog.athulcyriac.xyz">Blog</a> •
+  <a href="https://twitter.com/athulcajay">Twitter</a>
+</p> -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :rocket: I’m currently working at [PULSE](https://www.pulse.mg/)
+- 🌱 I’m currently learning good stuff on **[freeCodeCamp](https://github.com/freeCodeCamp)**
+- 💬 Ask me about **Python, Odoo, Docker,** or **GIS**
+- 📫 How to reach me: [@jahmia56](https://twitter.com/jahmia56) on Twitter
+- :heart_eyes: Fun fact: Dad of a pretty little girl, and a passionate cyclist 
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Go           1 hr 46 mins    ██████████████░░░░░░░░░░░   55.92 % 
+Python       44 mins         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Markdown     16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+JavaScript   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+```
+<!--END_SECTION:waka-->
+
+-------
