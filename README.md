@@ -53,7 +53,7 @@ No Activity tracked this Week
 
 -------
 
-###:bar_chart: My GitHub Stats
+### :bar_chart: My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jahmia&show_icons=true&bg_color=010101&title_color=09A7A1&icon_color=FF790E&text_color=ffffff" alt="jahmia " /></p>
 
