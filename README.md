@@ -47,7 +47,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown              1 hr 46 mins    ███████████████████▓░░░░░   78.88 % 
+Sublime Text Config   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Other                 8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+YAML                  3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 <!--END_SECTION:waka-->
 
