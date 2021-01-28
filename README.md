@@ -69,7 +69,7 @@ YAML                  3 mins          ▓░░░░░░░░░░░░░
 <a href="https://www.linkedin.com/in/jahmia/">
   <img align="left" alt="Jahmia's LinkedIN" width="29px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jahmia/">
+<a href="https://www.freecodecamp.org/jahmia">
   <img align="left" alt="Jahmia's freeCodeCamp" width="29px" src="https://www.freecodecamp.org/news/favicon.png" />
 </a>
 <a href="https://www.strava.com/athletes/31959015">
