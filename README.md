@@ -1,11 +1,12 @@
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![poker cards](poker.jfif?raw=true "Poker cards")
+### Hey there, Akory aby ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- - :rocket: I’m currently working at [PULSE](https://www.pulse.mg/)-->
 - :seedling: I’m currently learning good stuff on **[freeCodeCamp](https://github.com/freeCodeCamp)**
 - 💬 Ask me about **Python** or **GIS**
 - :email: How to reach me: [@jahmia56](https://twitter.com/jahmia56) on Twitter
-- :heart_eyes: Fun fact: Dad of a pretty little girl :family:, and a passionate :bicyclist:
+- :heart_eyes: Fun fact: Dad of a pretty little girl :family: and a passionate :bicyclist:
 
 -------
 
