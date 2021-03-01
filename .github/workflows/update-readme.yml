@@ -7,7 +7,7 @@ name: Waka Github profile
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
