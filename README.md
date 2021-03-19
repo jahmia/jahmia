@@ -44,7 +44,7 @@
 
 -------
 
-### Weekly development breakdown
+### Personal weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
