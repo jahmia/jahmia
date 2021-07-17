@@ -48,7 +48,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other                 45 mins         ████████████░░░░░░░░░░░░░   47.79 % 
+Python                41 mins         ███████████░░░░░░░░░░░░░░   43.97 % 
+Sublime Text Config   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 ```
 <!--END_SECTION:waka-->
 
