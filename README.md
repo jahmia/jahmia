@@ -48,9 +48,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other                 45 mins         ████████████░░░░░░░░░░░░░   47.79 % 
-Python                41 mins         ███████████░░░░░░░░░░░░░░   43.97 % 
-Sublime Text Config   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Python                1 hr 23 mins    ███████████████▒░░░░░░░░░   60.95 % 
+Other                 45 mins         ████████▒░░░░░░░░░░░░░░░░   32.69 % 
+Sublime Text Config   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 <!--END_SECTION:waka-->
 
