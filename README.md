@@ -48,10 +48,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python                2 hrs 53 mins   ███████████████████████▒░   93.46 % 
-Sublime Text Config   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Text                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Markdown              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                2 hrs 53 mins   ████████████████████░░░░░   80.47 % 
+Other                 30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sublime Text Config   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Text                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Markdown              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
 
