@@ -48,8 +48,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other   8 hrs 50 mins   ████████████████████████▓   98.57 % 
-SQL     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
