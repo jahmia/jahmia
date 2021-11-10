@@ -49,11 +49,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python                11 hrs 46 mins  █████████████▓░░░░░░░░░░░   55.21 % 
-Text                  6 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.61 % 
-XML                   2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sublime Text Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Gettext Catalog       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Python                10 hrs 47 mins  ███████████████░░░░░░░░░░   60.39 % 
+Text                  3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.87 % 
+XML                   2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Other                 39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Sublime Text Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->
 
