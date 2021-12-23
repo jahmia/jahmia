@@ -49,10 +49,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python            9 hrs 42 mins   ███████████████████▓░░░░░   78.90 % 
-XML               1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Gettext Catalog   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-SQL               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Python            5 hrs 31 mins   █████████████████▓░░░░░░░   71.31 % 
+XML               1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Gettext Catalog   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 ```
 <!--END_SECTION:waka-->
 
