@@ -49,9 +49,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-XML               2 hrs 42 mins   ██████████████████▓░░░░░░   75.04 % 
-Python            45 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.14 % 
-Gettext Catalog   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Python   35 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
