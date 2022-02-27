@@ -48,12 +48,13 @@
 ### Personal weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-Python   2 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.39 % 
-Perl     1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.62 % 
-Other    48 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Text     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Python   2 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.39 %
+Perl     1 hr 2 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
+Other    48 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 %
 ```
+
 <!--END_SECTION:waka-->
 
 -------
