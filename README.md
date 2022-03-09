@@ -3,7 +3,7 @@
 ### Hey there, Akory aby ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- - :rocket: I’m currently working at [PULSE](https://www.pulse.mg/)-->
-- I am a Software Engineer at [Outlier](https://www.linkedin.com/company/0utlier/)
+- I am a Python Engineer
 - :seedling: I’m currently learning good stuff on **[freeCodeCamp](https://github.com/freeCodeCamp)**
 - 💬 Ask me about **Python** or **GIS**
 - :email: How to reach me: [@jahmia56](https://twitter.com/jahmia56) on Twitter
