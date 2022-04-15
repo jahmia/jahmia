@@ -50,9 +50,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python                4 hrs 5 mins    ████████▒░░░░░░░░░░░░░░░░   33.32 %
-SQL                   3 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   32.38 %
-Other                 2 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+Python                3 hrs 6 mins    █████████████░░░░░░░░░░░░   52.60 %
+Other                 1 hr 13 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
 ```
 
 <!--END_SECTION:waka-->
