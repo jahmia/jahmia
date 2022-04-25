@@ -43,9 +43,9 @@
 <code><img height="20" src="https://a.slack-edge.com/80588/marketing/img/meta/favicon-32.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/trello.svg"></code>
 
--------
+<!-- ------- -->
 
-### Personal weekly development breakdown
+<!-- ### Personal weekly development breakdown -->
 
 <!--START_SECTION:waka-->
 
