@@ -48,11 +48,8 @@
 <!-- ### Personal weekly development breakdown -->
 
 <!--START_SECTION:waka-->
-
 ```text
-
 ```
-
 <!--END_SECTION:waka-->
 
 -------
