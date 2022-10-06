@@ -42,23 +42,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/jira.svg"></code>
 <code><img height="20" src="https://a.slack-edge.com/80588/marketing/img/meta/favicon-32.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/trello.svg"></code>
-
-<!-- ------- -->
-
-<!-- ### Personal weekly development breakdown -->
-
-<!--START_SECTION:waka-->
-```text
-```
-<!--END_SECTION:waka-->
-
--------
+<!-- -------
 
 ### :bar_chart: My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jahmia&show_icons=true&bg_color=010101&title_color=09A7A1&icon_color=FF790E&text_color=ffffff" alt="jahmia " /></p>
-
--------
+-->
+------- 
 ### Online Presence
 
 <div style="align: center">
@@ -69,7 +59,7 @@
   <img align="left" alt="Jahmia's LinkedIN" width="29px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.freecodecamp.org/jahmia">
-  <img align="left" alt="Jahmia's freeCodeCamp" width="29px" src="https://www.freecodecamp.org/news/favicon.png" />
+  <img align="left" alt="Jahmia's freeCodeCamp" width="29px" src="https://fontawesome.com/9d667320-db28-4d34-ad3e-67c21c595435" />
 </a>
 <a href="https://www.strava.com/athletes/31959015">
   <img align="left" alt="Jahmia's Strava" width="29px" height="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/strava.svg"/>
@@ -77,4 +67,4 @@
 </div>
 <br>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=jahmia.jahmia" align="right">
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=jahmia.jahmia" align="right"> -->
