@@ -4,7 +4,8 @@
 
 <!-- - :rocket: I’m currently working at [PULSE](https://www.pulse.mg/)-->
 - I am a Python Engineer
-- :seedling: I’m currently learning good stuff on **[freeCodeCamp](https://github.com/freeCodeCamp)**
+- :seedling: I am also in **[GitLab](https://gitlab.com/jahmia)** and **[freeCodeCamp](https://github.com/freeCodeCamp)**
+- For tech decisions sometimes **[Stackshare](https://stackshare.io/jahmia56)** helps
 - 💬 Ask me about **Python** or **GIS**
 - :email: How to reach me: [@jahmia56](https://twitter.com/jahmia56) on Twitter
 - :heart_eyes: Fun fact: Dad of a pretty little girl :family: and a passionate :bicyclist:
@@ -59,10 +60,10 @@
   <img align="left" alt="Jahmia's LinkedIN" width="29px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.freecodecamp.org/jahmia">
-  <img align="left" alt="Jahmia's freeCodeCamp" width="29px" src="https://fontawesome.com/9d667320-db28-4d34-ad3e-67c21c595435" />
+  <img align="left" alt="Jahmia's freeCodeCamp" width="29px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/free-code-camp.svg" />
 </a>
 <a href="https://www.strava.com/athletes/31959015">
-  <img align="left" alt="Jahmia's Strava" width="29px" height="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/strava.svg"/>
+  <img align="left" alt="Jahmia's Strava" width="29px" height="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/strava.svg"/>
 </a>
 </div>
 <br>
