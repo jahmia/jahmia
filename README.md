@@ -5,7 +5,7 @@
 <!-- - :rocket: I’m currently working at [PULSE](https://www.pulse.mg/)-->
 - I am a Python Engineer
 - :seedling: I am also in **[GitLab](https://gitlab.com/jahmia)** and **[freeCodeCamp](https://github.com/freeCodeCamp)**
-- For tech decisions sometimes **[Stackshare](https://stackshare.io/jahmia56)** helps
+- For tech decisions sometimes **[Stackshare](https://stackshare.io/jahmia)** helps
 - 💬 Ask me about **Python** or **GIS**
 - :email: How to reach me: [@jahmia56](https://twitter.com/jahmia56) on Twitter
 - :heart_eyes: Fun fact: Dad of a pretty little girl :family: and a passionate :bicyclist:
